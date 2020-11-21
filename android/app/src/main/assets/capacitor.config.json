@@ -1,0 +1,13 @@
+{
+  "appId": "com.ionic.starter",
+  "appName": "Ionic-Online-Recipe",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
